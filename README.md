@@ -31,7 +31,7 @@ Visualized the trend in stock closing prices.
 📊 Seasonal Decomposition
 Analyzed the time series into trend, seasonality, and residual components.
 
-###3️⃣ Feature Engineering
+3️⃣ Feature Engineering
 ➕ Lag Features
 Added a lag feature using the previous day’s close price.
 
