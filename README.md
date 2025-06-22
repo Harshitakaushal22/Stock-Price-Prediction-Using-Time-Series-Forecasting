@@ -42,9 +42,7 @@ Computed 7-day moving average.
 
 🔍 Model Selection and Training
 Trained an ARIMA model and selected optimal (p, d, q) parameters using AIC.
-from statsmodels.tsa.arima.model import ARIMA
-model = ARIMA(df['Close'], order=(5,1,0))
-model_fit = model.fit()
+
 
 5️⃣ Forecasting & Evaluation
 📈 Forecast vs Actual Prices
